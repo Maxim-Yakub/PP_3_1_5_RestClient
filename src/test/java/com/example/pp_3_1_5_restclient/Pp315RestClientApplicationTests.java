@@ -8,3 +8,6 @@ class Pp315RestClientApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
